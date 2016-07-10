@@ -1,6 +1,6 @@
 This is a port of the quake 3 server binary (q3ded) on the Sony PSP. The source was released approximately one decade ago. This is the unmodified source of the project.
 
-see http://lukasz.dk/mirror/forums.ps2dev.org/viewtopice433.html?t=8465
+see http://lukasz.dk/mirror/forums.ps2dev.org/viewtopic62f9.html?t=9529
 
 
 /*
